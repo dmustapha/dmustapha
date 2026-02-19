@@ -1,6 +1,6 @@
 ## Hi, I'm Dami
 
-Full-stack developer focused on Web3 and DeFi. Studied medicine, taught myself to code, started building.
+Full-stack developer focused on Web3 and DeFi. Studied medicine, taught myself to code.
 
 ---
 
@@ -12,13 +12,3 @@ Full-stack developer focused on Web3 and DeFi. Studied medicine, taught myself t
 | [KasGate](https://github.com/dmustapha/kasgate) | Kaspa payment gateway: accept KAS via API, webhook notifications, drop-in widget | TypeScript, Express, SQLite, Kaspa |
 | [WhaleVault](https://github.com/dmustapha/whalevault) | Privacy layer for Solana using zero-knowledge proofs | Next.js, Rust/Anchor, Python |
 | [Cyber Air Hockey](https://github.com/dmustapha/cyber-air-hockey) | Multiplayer air hockey with ELO rankings and on-chain match records | Next.js, Matter.js, WebSocket |
-
----
-
-**Stack:**
-
-`TypeScript` `Next.js` `Solidity` `Rust` `Python` `Anchor` `Node.js` `WebSocket` `Tailwind`
-
----
-
-damilolamustaphaa@gmail.com

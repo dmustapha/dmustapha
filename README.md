@@ -21,6 +21,4 @@ Full-stack developer focused on Web3 and DeFi. Studied medicine, taught myself t
 
 ---
 
-Previously: MBBS. Now: building.
-
-Open to work. Reach out: damilolamustaphaa@gmail.com
+damilolamustaphaa@gmail.com

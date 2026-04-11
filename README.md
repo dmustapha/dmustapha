@@ -2,7 +2,7 @@
 
 I spent five years studying medicine, graduated, then decided I'd rather build software. That sounds like a dramatic pivot but it made sense at the time and still does. Both jobs are mostly about diagnosing what's actually broken and not guessing.
 
-These days I'm focused on Web3 and DeFi infrastructure. Smart contracts, onchain protocols, the backend that makes decentralized apps work. I've shipped nine projects across seven chains, won the Chainlink Convergence Hackathon 2026 with [GhostFund](https://github.com/dmustapha/ghostfund), placed 2nd in the GoldRush Agentic Track with [AgentAuditor](https://github.com/dmustapha/agent-auditor), and was part of the TruthBounty team that placed 2nd at Seedify on BNB Chain and went on to raise $750K.
+These days I'm focused on Web3 and DeFi infrastructure. Smart contracts, onchain protocols, the backend that makes decentralized apps work. I've shipped nine projects across seven chains, won the Chainlink Convergence Hackathon 2026 with [GhostFund](https://github.com/dmustapha/ghostfund), won the GoldRush Agentic Track at Trends.fun with [AgentAuditor](https://github.com/dmustapha/agent-auditor), and was part of the TruthBounty team that placed 2nd at Seedify on BNB Chain and went on to raise $750K.
 
 Based in Nigeria. [dmustapha.vercel.app](https://dmustapha.vercel.app) · [Twitter](https://x.com/capitanoo23) · [damilolamustaphaa@gmail.com](mailto:damilolamustaphaa@gmail.com)
 
@@ -11,7 +11,7 @@ Based in Nigeria. [dmustapha.vercel.app](https://dmustapha.vercel.app) · [Twitt
 | Project | What it does | Stack |
 |---------|-------------|-------|
 | [GhostFund](https://github.com/dmustapha/ghostfund) | **Chainlink Convergence 2026 winner.** Private DeFi yield vault, Aave V3 strategy with sender privacy and on-chain compliance enforcement | Solidity, TypeScript, Chainlink, Foundry |
-| [AgentAuditor](https://github.com/dmustapha/agent-auditor) | **GoldRush Agentic Track 2026, 2nd place.** Trust scoring for on-chain AI agents across 7 chains. 9-dimension behavioral profiling, on-chain attestations via ERC-7506 | TypeScript, Next.js, Solidity, Venice AI |
+| [AgentAuditor](https://github.com/dmustapha/agent-auditor) | **GoldRush Agentic Track Winner, Trends.fun Hackathon 2026.** Trust scoring for on-chain AI agents across 7 chains. 9-dimension behavioral profiling, on-chain attestations via ERC-7506 | TypeScript, Next.js, Solidity, Venice AI |
 | [DeepRock](https://github.com/dmustapha/deeprock) | RWA tokenization on Avalanche: treasury bills, private credit, real estate, with gasless ERC-4337 and WebAuthn auth | Solidity, Next.js, ERC-4337 |
 | [KasGate](https://github.com/dmustapha/kasgate) | Non-custodial Kaspa payment gateway with webhooks, a merchant dashboard, and a drop-in widget | TypeScript, Express, SQLite |
 | [DeltaAgent](https://github.com/dmustapha/deltaagent) | Autonomous AI agent managing leveraged ETH positions on Aave V3 | TypeScript, Groq |

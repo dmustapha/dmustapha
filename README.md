@@ -4,7 +4,7 @@ I spent five years studying medicine, graduated, then decided I'd rather build s
 
 These days I'm focused on Web3 and DeFi infrastructure. Smart contracts, onchain protocols, the backend that makes decentralized apps work. I've shipped nine projects across seven chains, won the Chainlink Convergence Hackathon 2026 with [GhostFund](https://github.com/dmustapha/ghostfund), won the GoldRush Agentic Track at Trends.fun with [AgentAuditor](https://github.com/dmustapha/agent-auditor), and was part of the TruthBounty team that placed 2nd at Seedify on BNB Chain and went on to raise $750K.
 
-[dmustapha.vercel.app](https://dmustapha.vercel.app) · [Twitter](https://x.com/capitanoo23) · [damilolamustaphaa@gmail.com](mailto:damilolamustaphaa@gmail.com)
+[damilolaa.vercel.app](https://dmustapha.vercel.app) · [Twitter](https://x.com/capitanoo23) · [damilolamustaphaa@gmail.com](mailto:damilolamustaphaa@gmail.com)
 
 ## Projects
 

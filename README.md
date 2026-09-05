@@ -1,24 +1,13 @@
 # Damilola Mustapha
 
-I spent five years studying medicine, graduated, then decided I'd rather build software. That sounds like a dramatic pivot but it made sense at the time and still does. Both jobs are mostly about diagnosing what's actually broken and not guessing.
+Full-stack and Web3/DeFi engineer. Five years in medicine before software; both come down to diagnosing what is actually broken instead of guessing. I build onchain protocols, autonomous AI agents, and the backend that makes decentralized apps work. 30+ projects shipped across 15+ chains. Wins: Chainlink Convergence 2026 (GhostFund) and the GoldRush Agentic Track at Trends.fun (AgentAuditor), plus 2nd at Seedify BNB with TruthBounty ($750K raised). Mainnet on Ethereum, Solana, Avalanche, Stellar, Mantle, Vara, Starknet, and Arbitrum.
 
-These days I'm focused on Web3 and DeFi infrastructure. Smart contracts, onchain protocols, the backend that makes decentralized apps work. I've shipped nine projects across seven chains, won the Chainlink Convergence Hackathon 2026 with [GhostFund](https://github.com/dmustapha/ghostfund), won the GoldRush Agentic Track at Trends.fun with [AgentAuditor](https://github.com/dmustapha/agent-auditor), and was part of the TruthBounty team that placed 2nd at Seedify on BNB Chain and went on to raise $750K.
+- **[GhostFund](https://github.com/dmustapha/ghostfund):** Chainlink Convergence 2026 winner. Private DeFi yield vault (Aave V3) with sender privacy and onchain compliance.
+- **[AgentAuditor](https://agent-auditor-two.vercel.app):** GoldRush Agentic Track winner. Trust scoring for onchain AI agents: 9-dimension behavioral profiling and onchain attestations across 7 chains.
+- **[Veil](https://veilzk.vercel.app):** Private cross-chain margin lending. Lock WETH on Ethereum, borrow USDC on Stellar, with a client-side zero-knowledge proof that hides your amount and wallet from the Stellar ledger.
+- **[Backstop](https://backstop-alpha.vercel.app):** Veto-only onchain co-signer for autonomous AI agents. Simulates every transaction on live Mantle state and blocks drainers before a single wei can leave.
+- **[0G Sentinel / ProofLock](https://sentinel-prooflock.vercel.app):** A provable, revocable admission pass for AI agents on 0G. Seals a verdict onchain that any contract can check in one line.
+- **[VaraCore](https://agents.vara.network):** Agent trust infrastructure on Vara. Price oracle, reputation scorer, and agent registry in one Sails program.
+- **[Mirror](https://mirror-indexer.vercel.app):** A DEX indexer that stores itself onchain in EIP-4844 blob transactions, fully restorable from the chain alone.
 
-[damilolaa.vercel.app](https://dmustapha.vercel.app) · [Twitter](https://x.com/capitanoo23) · [damilolamustaphaa@gmail.com](mailto:damilolamustaphaa@gmail.com)
-
-## Projects
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [GhostFund](https://github.com/dmustapha/ghostfund) | **Chainlink Convergence 2026 winner.** Private DeFi yield vault, Aave V3 strategy with sender privacy and on-chain compliance enforcement | Solidity, TypeScript, Chainlink, Foundry |
-| [AgentAuditor](https://github.com/dmustapha/agent-auditor) | **GoldRush Agentic Track Winner, Trends.fun Hackathon 2026.** Trust scoring for on-chain AI agents across 7 chains. 9-dimension behavioral profiling, on-chain attestations via ERC-7506 | TypeScript, Next.js, Solidity, Venice AI |
-| [DeepRock](https://github.com/dmustapha/deeprock) | RWA tokenization on Avalanche: treasury bills, private credit, real estate, with gasless ERC-4337 and WebAuthn auth | Solidity, Next.js, ERC-4337 |
-| [KasGate](https://github.com/dmustapha/kasgate) | Non-custodial Kaspa payment gateway with webhooks, a merchant dashboard, and a drop-in widget | TypeScript, Express, SQLite |
-| [DeltaAgent](https://github.com/dmustapha/deltaagent) | Autonomous AI agent managing leveraged ETH positions on Aave V3 | TypeScript, Groq |
-| [SLAStream](https://github.com/dmustapha/slastream) | Cross-chain streaming payments for Filecoin storage providers | Cairo, Lit Protocol, Next.js |
-| [WhaleVault](https://github.com/dmustapha/whalevault) | Privacy layer for Solana with zero-knowledge proofs | Rust/Anchor, Next.js |
-| [CyberpuckChaos](https://github.com/dmustapha/cyberpuck-chaos) | Multiplayer air hockey where an LLM chaos agent warps the physics mid-game, results recorded on-chain | TypeScript, Matter.js, Move |
-
-## Stack
-
-TypeScript, JavaScript, Solidity, Rust, Cairo, Python, Next.js, React, Node.js, Express, Ethereum, Solana, Avalanche, Starknet, Arbitrum, Kaspa, Foundry, Anchor
+[damilolaa.vercel.app](https://damilolaa.vercel.app) · [@capitanoo23](https://x.com/capitanoo23) · damilolamustaphaa@gmail.com

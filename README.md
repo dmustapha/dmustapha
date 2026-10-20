@@ -2,7 +2,7 @@
 
 I'm a licensed physician who ended up spending most of his time writing software, and most of what I build falls somewhere between AI agents, on-chain systems and clinical tools.
 
-Seventy-one repositories here, and a little over 2,900 commits authored this year across sixty-five of them. Four of those projects won their hackathon track and a fifth made the round of 16. Deployed across fifteen or so chains, with live mainnet work on multiple EVM networks and Solana.
+A little over 2,900 commits authored this year. Four projects won their hackathon track and a fifth made the round of 16. Deployed across fifteen or so chains, with live mainnet work on multiple EVM networks and Solana.
 
 - **[LEASH](https://leash.ink):** Mission control for the AI agents that spend your money. Bind an existing agent to a governed 2-of-2 co-signed account, declare its spend limits on an ENS name, and cut it off everywhere with one onchain write. ENS + Hedera x402 + Privy.
 - **[Triage-0](https://github.com/dmustapha/triage-0):** Won the Psy Models track at Tether's QVAC "Unleash Edge AI" hackathon. Clinical triage for community health workers that runs entirely offline: speech-to-text, reasoning, retrieval and speech all on-device, citing the exact WHO guideline page it used.
